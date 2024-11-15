@@ -1,6 +1,6 @@
 ## Bienvenid@ al perfil de Jordi Ros López
 
-Soy un joven programador al que le gusta realizar los programas que se le piden. Puedo estarme noches enteras programando con tal de encontrar el error en la linea 34 (esta vacia )
+Soy un joven programador al que le gusta realizar los programas que se le piden. Puedo estarme noches enteras programando con tal de encontrar el error en la linea 34 (esta vacia 😭).
 
 ## Estudios en curso
 - Ciclo superior de Diseño de Aplicaciones Móbiles y Diseño de Aplicaciones Web (2024-2027)
