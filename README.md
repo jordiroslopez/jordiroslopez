@@ -4,6 +4,7 @@ Soy un joven programador al que le gusta realizar los programas que se le piden.
 
 ## Estudios en curso
 - Ciclo superior de Diseño de Aplicaciones Móbiles y Diseño de Aplicaciones Web (2024-2027)
+  Cursando en La Salle de Grácia (Barcelona)
 
 ## Estudios cursados
 - Ciclo Medio de Instalaciones Electricas y Automáticas (2018-2020)
