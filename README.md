@@ -7,6 +7,7 @@ Soy un joven programador al que le gusta realizar los programas que se le piden.
   Cursando en La Salle de Grácia (Barcelona).
 
 ## Estudios cursados 🎓
+- Estudios primarios y ESO. Cursaod en Sant Josep Teresianes de Gràcia (Barcelona).
 - Ciclo Medio de Instalaciones Electricas y Automáticas (2018-2020).
   Cursado en Salesians de Sarria (Barcelona).
 - Ciclo Superior de Automaticación y Robótica Industrial (2020-2022).
