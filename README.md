@@ -26,13 +26,13 @@ Soy un joven programador al que le gusta realizar los programas que se le piden.
 ![Kotlin](https://img.shields.io/badge/Kotlin-B925E9?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ---
-### Logros
+### Logros 🏆
 <div>
   <img src="https://github-profile-trophy.vercel.app?username=jordiroslopez&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ---
 
-## Las estadisticas del repositorio 📈
+## Estadisticas del repositorio 📈
 ![Jordi Ros López GitHub stats](https://github-readme-stats.vercel.app/api?username=jordiroslopez&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordiroslopez&layout=compact&theme=dark)
