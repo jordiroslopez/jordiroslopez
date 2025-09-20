@@ -1,4 +1,4 @@
-## Bienvenid@ al perfil de Jordi Ros López 👋
+![alt text](Baner.png)
 
 Soy un joven programador al que le gusta realizar los programas que se le piden. Puedo estarme noches enteras programando con tal de encontrar el error en la linea 34 (esta vacia 😭).
 
