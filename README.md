@@ -32,3 +32,8 @@ Soy un joven programador al que le gusta realizar los programas que se le piden.
 ## Estadisticas del repositorio 📈
 ![Jordi Ros López GitHub stats](https://github-readme-stats.vercel.app/api?username=jordiroslopez&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordiroslopez&layout=compact&theme=dark)
+
+## Contacto 📱
+* Email: jorgex1412@gmail.com
+* Discord: [darky485](https://darky485.com/discord)
+* LinkedIn: [Jordi Ros López](https://www.linkedin.com/feed/?trk=sem-ga_campid.18146679037_asid.140850334975_crid.694860685343_kw.linkedin_d.c_tid.kwd-148086543_n.g_mt.e_geo.9198192)
