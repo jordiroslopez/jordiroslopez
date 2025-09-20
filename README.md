@@ -5,16 +5,15 @@
 Soy un joven programador al que le gusta realizar los programas que se le piden. Puedo estarme noches enteras programando con tal de encontrar el error en la linea 34 (esta vacia 😭).
 
 ## Estudios en curso 💻
-- Ciclo superior de Diseño de Aplicaciones Multiplataforma y Diseño de Aplicaciones Web (2024-2027).
-  Cursando en La Salle de Grácia (Barcelona).
+- **Ciclo superior de Diseño de Aplicaciones Multiplataforma y Diseño de Aplicaciones Web** (2024-2027), cursando en La Salle de Grácia (Barcelona).
 
 ## Estudios cursados 🎓
-- Estudios primarios y ESO, cursado la escuela en Sant Josep Teresianes de Gràcia (Barcelona).
-- Ciclo Medio de Instalaciones Electricas y Automáticas (2018-2020), cursado en Salesians de Sarria (Barcelona).
-- Ciclo Superior de Automaticación y Robótica Industrial (2020-2022), cursado en Salesians de Sarria (Barcelona).
-- Ciclo Superior de Sistemas de Telecomunicaciones he Informática (2022-2024), cursado en Salesians de Sarria (Barcelona).
+- **Estudios primarios y ESO**, cursado la escuela en Sant Josep Teresianes de Gràcia (Barcelona).
+- **Ciclo Medio de Instalaciones Electricas y Automáticas** (2018-2020), cursado en Salesians de Sarria (Barcelona).
+- **Ciclo Superior de Automaticación y Robótica Industrial** (2020-2022), cursado en Salesians de Sarria (Barcelona).
+- **Ciclo Superior de Sistemas de Telecomunicaciones he Informática** (2022-2024), cursado en Salesians de Sarria (Barcelona).
 
-## Lenguajes usados 
+## Lenguajes usados 🈂️
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-2965f1.svg?style=for-the-badge&logo=css&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
