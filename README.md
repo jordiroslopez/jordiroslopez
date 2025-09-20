@@ -16,9 +16,12 @@ Soy un joven programador al que le gusta realizar los programas que se le piden.
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-2965f1.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23ED8B00.svg?style=for-the-badge&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Arduino](https://img.shields.io/badge/arduino-00979C?style=for-the-badge&logo=arduino&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-B925E9?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ## Las estadisticas del repositorio 📈
 ![Jordi Ros López GitHub stats](https://github-readme-stats.vercel.app/api?username=jordiroslopez&show_icons=true&theme=dark)
