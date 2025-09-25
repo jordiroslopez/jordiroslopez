@@ -1,6 +1,6 @@
 ![alt text](Baner-1.png)
 
-[![Explore, star, comment, fork](https://readme-typing-svg.demolab.com?font=Ubuntu+mono&weight=300&size=18&color=E95420&multiline=true&random=false&width=435&lines=Welcome+to+Darky485's+repository%2C+feel+free+to+clone%2C;+comment+or+modify+my+repositories)](https://git.io/typing-svg)
+[![Explore, star, comment, fork](https://readme-typing-svg.demolab.com?font=Ubuntu+mono&weight=300&size=18&color=008CFF&multiline=true&random=false&width=550&lines=Welcome+to+Darky485's+repository%2C+feel+free+to+clone%2C;+comment+or+modify+my+repositories)](https://git.io/typing-svg)
 
 Soy un joven programador al que le gusta realizar los programas que se le piden. Puedo estarme noches enteras programando con tal de encontrar el error en la linea 34 (esta vacia 😭).
 
